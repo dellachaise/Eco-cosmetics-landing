@@ -1,4 +1,12 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Eco cosmetics landing page
+
+The landing page for eco cosmetics brand.
+
+Stack: HTML5, SASS, BEM;
+
+Fully responsive layout was made by using CSS Grid and Flexbox;
+
+Design of the landing page you could find [here](https://www.figma.com/file/AoXZzkPgc40Ea1DG4zM3MM/brand_of_eco-cosmetics);
+
+Click the link to see [DEMO](https://dellachaise.github.io/Eco-cosmetics-landing/);
+git status
